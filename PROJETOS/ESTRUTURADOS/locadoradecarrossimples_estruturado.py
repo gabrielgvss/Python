@@ -119,6 +119,12 @@ while (escolha != 4 and resposta != 0):
         
 
     
+        
+        
+        
+        
+
+    
 
 
 
